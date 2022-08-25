@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url(../img/img3.jpg);
+    background: linear-gradient(rgba(14, 93, 112, 0.8), rgba(20, 151, 168, 0.3)), url(../img/img3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 40px;
+    color: #fff;
+}
+
+header a{
+    color: #fff;
+}
+
+h1{
+    padding: 15px;
+    
+}
+
+h3 {
+    padding: 20px;
+    text-align: center;
+    color: #000;
+
+}
+
+.cursos{
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.enlace {    
+    padding-top: 20px;
+   
+}
+
+hr {
+    background-color: #fff;
+}
+main {
+    background-image: url(../img/img4.jpg);
+    background: linear-gradient(rgba(14, 112, 99, 0.8), rgba(20, 168, 143, 0.3)), url(../img/img4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.centrar-listas {
+    text-align: center;
+}
+
+.centrar-listas ol, ul{
+    text-align: left;
+    display: inline-block;
+    color: #fff;
+   
+}
+
+li {
+    padding: 7px;
+    text-decoration: none;
+}
+
+a {
+    padding: 20px;
+    color: #000;
+  
+}
+
+section { 
+    background-image: url(../img/img1.jpg);
+    background: linear-gradient(rgba(183, 201, 103, 0.8), rgba(158, 168, 20, 0.3)), url(../img/img1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: bisque;
+    color: #000;
+    font-size: 20px;
+    padding: 20px;
+   
+}
+
+.fondo {
+    margin-left: -20px;
+    width: 150%;
+
+}
